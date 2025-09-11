@@ -164,6 +164,12 @@ section a:hover {
 }
 
 /**************   Contact Page   *****************/
+
+.ctitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .one-col {
   display: flex;
   flex-direction: column;
